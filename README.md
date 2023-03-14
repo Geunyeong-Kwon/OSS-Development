@@ -1,2 +1,2 @@
-# datastructure-python
-파이썬으로 자료구조 공부하기
+# oss
+oss 실습하기
